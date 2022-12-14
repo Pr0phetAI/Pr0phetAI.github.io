@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Prophet AI</title>
+    <link>/team/</link>
+    <description>Recent content in Team on Prophet AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 13:44:55 +1000</lastBuildDate><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Themis Sapsis, Ph.D.</title>
+      <link>/team/themis/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
+      
+      <guid>/team/themis/</guid>
+      <description>Dr. Sapsis is a Professor of Mechanical and Ocean Engineering at MIT. His expertise lies at the interface of nonlinear dynamical systems, probabilistic modeling, and data-driven methods. He has received numerous awards for his work, including the Alfred P. Sloan Foundation Award and the Bodossaki Award on Basic Sciences: Mathematics. Dr. Sapsis holds a Ph.D. in Mechanical Engineering from MIT.</description>
+    </item>
+    
+    <item>
+      <title>Ethan Pickering, Ph.D.</title>
+      <link>/team/ethan/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/ethan/</guid>
+      <description>Dr. Pickering is an AI Genetic Optimization Manager at Bayer Crop Sciences where he is developing new technology for AI-assisted phenotypic discovery. Prior to joining Bayer, he worked on combining deep neural networks with optimal sampling techniques to efficiently perform experimental design. Dr. Pickering holds a Ph.D. in Mechanical Engineering from Caltech.</description>
+    </item>
+    
+    <item>
+      <title>Antoine Blanchard, Ph.D.</title>
+      <link>/team/antoine/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/antoine/</guid>
+      <description>Dr. Blanchard is an AI Research Manager at Verisk Extreme Event Solutions where he is building the next generation of AI models for climate risk. He has a wealth of experience in machine learning and computational science, and has previously developed novel algorithms for accelerating the design and optimization of expensive experiments. Dr. Blanchard holds a Ph.D. in Aerospace Engineering from UIUC.</description>
+    </item>
+    
+  </channel>
+</rss>
